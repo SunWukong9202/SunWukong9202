@@ -1,6 +1,6 @@
 ## Hi there i'm Santiago👋
 
-I am computer science student, passionated about web development, mobile development and embeded systems.
+I am a computer science student at the Autonomous University of San Luis Potosi, and i hope to graduate by the end of 2024. I also passionated about web development, mobile development and embeded systems.
 
 ### About me
 
@@ -8,7 +8,7 @@ I am computer science student, passionated about web development, mobile develop
 - 📃 Also i'm finally beginning to learn about web development in a serious way
 
 ### I have work with
-- php - Laravel
+- Php - Laravel
 - Java
 - Python - Django
 - C# - Winforms
@@ -17,12 +17,22 @@ I am computer science student, passionated about web development, mobile develop
 
 ## Statistics
 
-[![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=SunWukong9202&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=SunWukong9202&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=SunWukong9202&show_icons=true" />
+</picture>
 
-## Social Networks
+## Contact
 
-- [LinkedIn](Enlace a tu perfil de LinkedIn)
-- [Twitter](Enlace a tu perfil de Twitter)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/azahel-santiago-461a341a3/)](https://www.linkedin.com/in/azahel-santiago-461a341a3/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white&link=mailto:azahelsantiagoaguileraaguilar@gmail.com)](mailto:azahelsantiagoaguileraaguilar@gmail.com)
 
 ¡Thank You to see my profile! 😊
 
