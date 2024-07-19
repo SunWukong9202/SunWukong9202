@@ -1,6 +1,6 @@
 ## Hi there i'm Santiago👋
 
-I am a computer science student at the Autonomous University of San Luis Potosi, and i hope to graduate by July 2025. I also passionated about web development, mobile development and embeded systems.
+I am a computer science student at the Autonomous University of San Luis Potosi, and i hope to graduate by July 2025. I'm passionated about web development, mobile development and embedded systems.
 
 ### About me
 
@@ -10,7 +10,6 @@ I am a computer science student at the Autonomous University of San Luis Potosi,
 ### I have work with
 - Php - Laravel
 - Java
-- Python - Django
 - C# - Winforms
 - Flutter
 - AVR GCC / ASSEMBLY 
@@ -34,7 +33,7 @@ I am a computer science student at the Autonomous University of San Luis Potosi,
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/azahel-santiago-461a341a3/)](https://www.linkedin.com/in/azahel-santiago-461a341a3/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white&link=mailto:azahelsantiagoaguileraaguilar@gmail.com)](mailto:azahelsantiagoaguileraaguilar@gmail.com)
 
-¡Thank You to see my profile! 😊
+¡Thank You for see my profile! 😊
 
 
 <!--
