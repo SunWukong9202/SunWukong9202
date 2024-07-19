@@ -1,6 +1,6 @@
 ## Hi there i'm Santiago👋
 
-I am a computer science student at the Autonomous University of San Luis Potosi, and i hope to graduate by the end of 2024. I also passionated about web development, mobile development and embeded systems.
+I am a computer science student at the Autonomous University of San Luis Potosi, and i hope to graduate by July 2025. I also passionated about web development, mobile development and embeded systems.
 
 ### About me
 
